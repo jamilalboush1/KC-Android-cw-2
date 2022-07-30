@@ -1,0 +1,11 @@
+public class Main
+{
+	public static void main(String[] args) {
+	String name = "jamil";
+		
+		int age = 17;
+
+System.out.println("my name is"+name);
+		System.out.println( "my age is"+age );
+	}
+}
