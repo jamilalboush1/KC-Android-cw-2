@@ -1,0 +1,17 @@
+public class Main
+{
+	public static void main(String[] args) {
+    
+    int person =154;
+    
+    int hight=160;
+    if(person>height){
+        
+        System.out.println("you can play");
+        
+        elso if (person<height){
+            System.out.println("you cann't play");
+        
+ }
+ }
+}
