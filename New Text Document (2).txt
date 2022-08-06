@@ -1,17 +1,26 @@
-public class Main
+/******************************************************************************
+
+Welcome to GDB Online.
+GDB online is an online compiler and debugger tool for C, C++, Python, Java, PHP, Ruby, Perl,
+C#, OCaml, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS, JS, SQLite, Prolog.
+Code, Compile, Run and Debug online from anywhere in world.
+
+*******************************************************************************/
+public class Main 
 {
-	public static void main(String[] args) {
-    
-    int person =154;
-    
-    int hight=160;
-    if(person>height){
-        
-        System.out.println("you can play");
-        
-        elso if (person<height){
-            System.out.println("you cann't play");
-        
- }
- }
+   public static void Main(String[] args) {
+
+   int person=154;
+   
+   int height=160;
+   
+   if (person>height){
+      
+   System.out.println("you can play");
+   
+   else if (person<height){
+       
+   System.out.println("you cann't play");
+}
+}
 }
